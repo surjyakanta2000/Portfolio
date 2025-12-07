@@ -250,7 +250,7 @@ export const projects = [
     description:
       "A Cake Shop management application “Truuffo that empowers users and agents to Order, View, and Customized Cake available in the store. Developed a modern Angular web app with a dynamic, responsive interface enriched with interactive charts.",
     image:
-      "https://raw.githubusercontent.com/surjyakanta2000/Portfolio/refs/heads/main/public/truuffo.PNG",
+      "https://raw.githubusercontent.com/surjyakanta2000/Portfolio/refs/heads/master/public/truuffo.PNG",
     tags: [
       "Angular 11",
       "TypeScript",
