@@ -7,7 +7,7 @@ export const Bio = {
     "Angular Developer"
   ],
   description: [
-    "I'm a B-Tech graduate working as a Software Engineer at Carelon in Bangalore, where I'm passionate about design and develop web applicaions using Angular and Dot Net.",
+    "I am a B.Tech graduate working as a Software Engineer at Carelon in Bangalore, where I am passionate about designing and developing web applications using Angular and .NET.",
     "But hey, life isn't all about code! You'll often find me lost in the rhythm of music, crafting tunes, or drawing. Whether it's competitive programming or collaborating on open-source projects, I believe in learning, growing, and sharing experiences with others."
   ],
   github: "https://github.com/surjyakanta2000/",
