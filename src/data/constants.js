@@ -12,7 +12,7 @@ export const Bio = {
   ],
   github: "https://github.com/surjyakanta2000/",
   resume: "https://drive.google.com/file/d/1Ta_KRtYaqbiqXLL9YX1HKXqmH7WphOxu/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/surjyakanta-das-92b745207/",
+  linkedin: "https://www.linkedin.com/in/surjyakanta-das-sd/",
   twitter: "https://twitter.com/",
   insta: "https://www.instagram.com/_end__surya/",
   facebook: "https://www.facebook.com/surjyakanta.das.1426/",
@@ -269,7 +269,7 @@ export const projects = [
 export const connectWithMe = [
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/surjyakanta-das-92b745207/",
+    url: "https://www.linkedin.com/in/surjyakanta-das-sd/",
     platform: "LinkedIn",
   },
   {
