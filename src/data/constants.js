@@ -307,6 +307,45 @@ export const projects = [
   },
 ];
 
+export const certificates = [
+  {
+    id: 0,
+    title: "MEAN-Stack Development",
+    date: "Jul 2020 - Feb 2021",
+    organization : "",
+    link : "",
+    orgImage : "",
+    description:
+      "Completed professional training in MEAN Stack from Webskitters Academy and certified in Angular, MongoDB, Node.js, Express.js, and Mongoose.",
+      image:
+      "https://raw.githubusercontent.com/surjyakanta2000/Portfolio/refs/heads/master/public/meanStack.jpg",
+  },
+  {
+    id: 1,
+    title: "Azure Fundamentals",
+    date: "Aug 2025",
+    organization : "",
+    link : "",
+    orgImage : "",
+    description:
+      "Completed certification from Simplilearn and certified in Azure Fundamentals.",
+      image:
+      "https://raw.githubusercontent.com/surjyakanta2000/Portfolio/refs/heads/master/public/AzureFundamental.jpg",
+  },
+  {
+    id: 2,
+    title: "Prompt Engineering with GitHub Copilot",
+    date: "Aug 2025",
+     organization : "",
+    link : "",
+    orgImage : "",
+    description:
+      "Completed certification from Simplilearn and certified in Prompt Engineering with GitHub Copilot.",
+      image:
+      "https://raw.githubusercontent.com/surjyakanta2000/Portfolio/refs/heads/master/public/GithubPrompt.jpg",
+  },
+];
+
 export const connectWithMe = [
   {
     name: "LinkedIn",
