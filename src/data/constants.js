@@ -270,6 +270,24 @@ export const projects = [
   },
   {
     id: 1,
+    title: "smartQED",
+    date: "Nov 2021 - Dec 2021",
+    description:
+      "It's a AI base application create technology that helps TEAMS to SOLVE incidents faster using fishbone structure, easier and smarter. smartQED is a visual workspace for efficient collaborative investigations",
+    image:
+      "https://raw.githubusercontent.com/surjyakanta2000/Portfolio/refs/heads/master/public/smartQed.PNG",
+    tags: [
+      "Angular JS",
+      "Javascript",
+      "SpringBoot",
+      "Python",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://www.smartqed.ai/",
+  },
+  {
+    id: 2,
     title: "Find-care",
     date: "Jul 2022 - Feb 2023",
     description:
