@@ -17,7 +17,7 @@ const Button = styled.button`
 `
 const Card = styled.div`
     width: 330px;
-    height: 400px;
+    height: 450px;
     background-color: ${({ theme }) => theme.card};
     cursor: pointer;
     border-radius: 10px;
@@ -85,7 +85,7 @@ const Description = styled.div`
     margin-top: 8px;
     display: -webkit-box;
     max-width: 100%;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 7;
     -webkit-box-orient: vertical;
     text-overflow: ellipsis;
 `

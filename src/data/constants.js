@@ -345,6 +345,30 @@ export const certificates = [
       image:
       "https://raw.githubusercontent.com/surjyakanta2000/Portfolio/refs/heads/master/public/GithubPrompt.jpg",
   },
+   {
+    id: 3,
+    title: "Vulnerability remediation",
+    date: "Dec 2024",
+     organization : "",
+    link : "",
+    orgImage : "",
+    description:
+      "Solved the Vulnerability (approximate : 2000Vulnerability) in PODS and PCD applications in the very stipulated time",
+      image:
+      "https://raw.githubusercontent.com/surjyakanta2000/Portfolio/refs/heads/master/public/Vulnarability.jpg",
+  },
+   {
+    id: 4,
+    title: "Data Transfer Utility",
+    date: "May 2025",
+     organization : "",
+    link : "",
+    orgImage : "",
+    description:
+      "Introduced new tools for the team to automate tasks. Successfully completed the Data Transfer Utility project, achieving significant cost savings and reducing manual work across multiple teams.",
+      image:
+      "https://raw.githubusercontent.com/surjyakanta2000/Portfolio/refs/heads/master/public/DataTransferutility.jpg",
+  },
 ];
 
 export const connectWithMe = [

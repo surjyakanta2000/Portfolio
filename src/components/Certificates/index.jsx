@@ -11,9 +11,9 @@ const Certificates = ({ openModal, setOpenModal }) => {
   return (
     <Container id="certificate">
       <Wrapper>
-        <Title>Certificate</Title>
+        <Title>Certificate & Achievements</Title>
         <Desc>
-          I have ACHIEVE Few Certificates. those are listed below.
+         I have a few certifications and achievements, which are listed below.
         </Desc>
         <CardContainer>
           {toggle === 'all' && certificates
