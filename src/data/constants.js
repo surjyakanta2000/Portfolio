@@ -165,6 +165,10 @@ export const skills = [
         image: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/copilot-icon.png",
       },
       {
+        name: "Splunk",
+        image: "https://w7.pngwing.com/pngs/729/271/png-transparent-splunk-app-logo-tech-companies-thumbnail.png",
+      },
+      {
         name: "Nginx",
         image: "https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png",
       },
@@ -244,7 +248,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 11,
+    id: 0,
     title: "Truuffo",
     date: "Aug 2021 - Oct 2021",
     description:
@@ -263,6 +267,25 @@ export const projects = [
     category: "web app",
     github: "",
     webapp: "https://truuffo.com/",
+  },
+  {
+    id: 1,
+    title: "Find-care",
+    date: "Jul 2022 - Feb 2023",
+    description:
+      "US Based application to Find care near you from an in-network Anthem provider. Plus, receive estimated costs based on your plan and where you live.",
+    image:
+      "https://raw.githubusercontent.com/surjyakanta2000/Portfolio/refs/heads/master/public/findcare.PNG",
+    tags: [
+      "Angular",
+      "TypeScript",
+      "Node Js",
+      "Splunk",
+      "SOA Apis"
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://www.anthem.com/find-care/",
   },
 ];
 
