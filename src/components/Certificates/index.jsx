@@ -9,7 +9,7 @@ import { certificates } from '../../data/constants'
 const Certificates = ({ openModal, setOpenModal }) => {
   const [toggle, setToggle] = useState('all');
   return (
-    <Container id="certificates">
+    <Container id="certificate">
       <Wrapper>
         <Title>Certificate</Title>
         <Desc>
