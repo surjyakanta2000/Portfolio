@@ -2,7 +2,8 @@ export const Bio = {
   name: "Surjyakanta Das",
   roles: [
     "Software Engineer",
-    "Competitive Programmer",
+    // "Competitive Programmer",
+    "Code Challenger",
     "Vulnarability Expert",
     "Angular Developer"
   ],
